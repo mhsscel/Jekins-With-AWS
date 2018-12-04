@@ -1,0 +1,19 @@
+#Testando webhook
+version: 0.0
+os: linux
+files:
+  - source: script/teste.html
+    destination: /var/www/html
+hooks:
+  BeforeInstall:
+    - location: script/prepare_server.sh
+      timeout: 300
+      runas: root
+  AfterInstall:
+    - location: script/installNextCloud.sh
+      timeout: 300
+      runas: root
+  ApplicationStart:
+    - location: script/start_server.sh
+      timeout: 300
+      runas: root
