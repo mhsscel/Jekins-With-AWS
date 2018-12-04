@@ -7,8 +7,10 @@
 ## Referências
   
 ```
+
 * [Jekins](https://jenkins.io/) - Ferramenta de Integração Contínua; 
-* [AWS CodeDeploy](https://aws.amazon.com/pt/codedeploy/) - Ferramenta de Implantação Contínua; 
-* [AWS EC2](https://aws.amazon.com/pt/ec2/) - Serviço Web que disponibiliza Computação na Nuvem; 
-* [Nextcloud](https://nextcloud.com/) - Serviço Open Source de armazenamento e sincronização de arquivos privados, similar ao Dropbox.
+* [AWS CodeDeploy](https://aws.amazon.com/pt/codedeploy/) - Ferramenta de Implantação Contínua;  
+* [AWS EC2](https://aws.amazon.com/pt/ec2/) - Serviço Web que disponibiliza Computação na Nuvem;  
+* [Nextcloud](https://nextcloud.com/) - Serviço Open Source de armazenamento e sincronização de arquivos privados, similar ao Dropbox. 
+
 ```
