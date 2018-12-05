@@ -4,6 +4,7 @@
   
 *É apresentado a automatização de implementações no EC2 a partir do GitHub usando o Jenkins como uma ferramenta de Integração Contínua e o AWS CodeDeploy como uma ferramenta de Implantação Contínua, onde o serviço CodeDeploy é dimensionável com a infraestrutura, facilitando a implantação do aplicativo para um ou milhares de instâncias por vez. O script para teste de automação de implementação executa a instalação para um serviço Open Source de armazenamento e sincronização de arquivos privados conhecido como Nextcloud.* 
 
+  
 ## Schema
  
 ![alt text](https://raw.githubusercontent.com/mhsscel/Jekins-With-AWS/master/schema.png) 
