@@ -6,9 +6,9 @@ Jekins-With-AWS
 |
 <b><a href="#schema">Schema</a></b>
 |
-<b><a href="#installation">Instalação</a></b>
+<b><a href="#instalacao">Instalação</a></b>
 |
-<b><a href="#reference">Referências</a></b>
+<b><a href="#referencias">Referências</a></b>
 </p>
 <br>
 
