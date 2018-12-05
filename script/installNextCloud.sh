@@ -6,8 +6,8 @@
 
 nextcloud_url='' # URL da instancia NextCloud
 nextcloud_version='12.0.3' # NextCloud version
-db_root_password='infosize' # MySQL senha root
-db_user_password='infosize' # MySQL senha user
+db_root_password='supersecreta' # MySQL senha root
+db_user_password='supersecreta' # MySQL senha user
 datapath='/cloud' # Pasta de armazenamento para arquivos de usuario
 
 ocpath='/var/www/nextcloud' # Pasta de instalação NextCloud
@@ -110,7 +110,7 @@ FLUSH PRIVILEGES;
 EXIT
 QUERY_INPUT
 
-# Ativa agendador de tarefa a cada 15 minutes
+# Ativa agendador de tarefa a cada 15 minutos
 crontab -u www-data -l > cron
 echo "*/15  *  *  *  * php -f /var/www/nextcloud/cron.php" >> cron
 crontab -u www-data cron
