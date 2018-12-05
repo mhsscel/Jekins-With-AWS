@@ -3,7 +3,7 @@ Jekins-With-AWS
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary><b>`MENU`</b></summary>
+<summary><b>MENU</b></summary>
  
 - [Introdução](#introdução)
 - [Schema](#schema)
