@@ -7,7 +7,7 @@
   
 ## Schema
  
-![alt text](https://raw.githubusercontent.com/mhsscel/Jekins-With-AWS/master/schema.png) 
+![author: mhsscel](https://raw.githubusercontent.com/mhsscel/Jekins-With-AWS/master/schema.png) 
  
 ## Referências
 
