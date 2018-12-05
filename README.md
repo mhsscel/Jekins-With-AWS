@@ -1,16 +1,22 @@
 Jekins-With-AWS 
 ============================================
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary><b>MENU</b></summary>
+ 
+- [Introdução](#introducao)
+- [Schema](#schema)
+- [Instalação](#instalacao)
+  * [`left` alignment](#left-alignment)
+  * [`right` alignment](#right-alignment)
+  * [`center` alignment example](#center-alignment-example)
+  * [`collapse` Sections](#collapse-sections)
+  * [`additional links`](#additional-links)
+  * [Badges](#badges)
+- [Referências](#referencias)
 
-<p align="rigth">
-<b><a href="#introducao">Introdução</a></b>
-|
-<b><a href="#schema">Schema</a></b>
-|
-<b><a href="#instalacao">Instalação</a></b>
-|
-<b><a href="#referencias">Referências</a></b>
-</p>
-<br>
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Introdução
 
