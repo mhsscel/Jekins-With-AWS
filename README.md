@@ -4,16 +4,16 @@ Jekins-With-AWS
 <details>
 <summary><b>MENU</b></summary>
  
-- [Introdução](#introducao)
+- [Introdução](#introdução)
 - [Schema](#schema)
-- [Instalação](#instalacao)
+- [Instalação](#instalação)
   * [`left` alignment](#left-alignment)
   * [`right` alignment](#right-alignment)
   * [`center` alignment example](#center-alignment-example)
   * [`collapse` Sections](#collapse-sections)
   * [`additional links`](#additional-links)
   * [Badges](#badges)
-- [Referências](#referencias)
+- [Referências](#referências)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
